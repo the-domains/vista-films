@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vista Films]]></title>
+        <description><![CDATA[Vista Films]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 05:10:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vista Films]]></title>
+            <description><![CDATA[<article><h1>Vista Films</h1><p>Right now I am a full-time student at Azusa Pacific University majoring in their Bachelor of Fine Arts Program in Cinematography. I was Director of Videography for a mega church called Bayside Granite Bay, in Northern California before I left for college. I’m still on staff with them doing shoots as needed as well as working on my own doing wedding videos; and recently I finished a week-long location shoot in Tennessee for a national youth convention. One of the biggest projects I just finished up, is the first episode for a web series on sex trafficking. It’s in the process of being picked up by a major studio and we are scheduled to film seven more episodes within the next four months.</p></article>]]></description>
+            <link>undefinedvista-films/index.html</link>
+            <guid isPermaLink="false">5a19a54e-b1a3-40e7-9e08-da21717fc285</guid>
+            <pubDate>Tue, 09 Feb 2016 05:10:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
