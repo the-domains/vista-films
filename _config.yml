@@ -1,7 +1,7 @@
 name: Vista Films
 favicon: null
-layout_spectrum: 0.7976909885182977
-typography_spectrum: 0.20217261067591608
+layout_spectrum: 0.50835
+typography_spectrum: 0.45826
 title: Vista Films
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#f7f8fa'
+    - '#d4d2df'
+    - '#5a383e'
+    - '#6a657f'
+    - '#d97f3f'
   brandStrength: 0.359635143307969
-  lightness: 0.6557561645749956
+  lightness: 0.4375
   saturation: 0.5553340173792094
   rhythmicContrast: 0.6981340541969985
 purpose: []
